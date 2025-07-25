@@ -1,5 +1,6 @@
 # Log Server
 
+
 This repository contains two ways to view log files stored in the `logs` directory.
 
 1. **Flask-based viewer** – A very small Python application that lists text logs
